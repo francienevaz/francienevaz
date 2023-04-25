@@ -1,9 +1,10 @@
 ### Hey guys! Welcome! 👩🏻🖐🏻
-<div style="text-align: center">
-    <a href="https://github.com/francienevaz" width="100%"> 
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=francienevaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francienevaz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<a href="https://github.com/francienevaz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francienevaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/francienevaz/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francienevaz&layout=compact&langs_count=7&theme=dracula" />
+</a>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
