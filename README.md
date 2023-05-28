@@ -5,8 +5,7 @@
 ##
 
 <div align="center">
-  <a href="https://www.artstation.com/artwork/8eelbG">
-  <img width="85%" src="/pixel-jeff-matrix-s.gif" alt="Pixel Jeff - ArtStation">
+  <a href="https://www.artstation.com/artwork/8eelbG"><img width="85%" src="/pixel-jeff-matrix-s.gif" alt="Pixel Jeff - ArtStation">
 </div>
 
 ##
