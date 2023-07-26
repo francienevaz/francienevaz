@@ -28,7 +28,7 @@ jobs:
           github_user_name: francienevaz
         
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark.svg?palette=github-dark&color_snake=#ea6121&color_dots=#700e2f,#8b113b,#a71447,#c31852,#df1b5e
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark.svg?palette=github-dark&color_snake=#FFF30D&color_dots=#ea6121,#ea6121,#ea6121,#c31852,#df1b5e
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
