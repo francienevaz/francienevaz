@@ -26,16 +26,11 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: francienevaz
-          
-          supported opitions: |
-            - color_snake: crimson
-            - color_dots: #0dd3f8, #0bbddf, #0aa8c6, #0993ad, #077e94
+        
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          supported options: |   
-            - palette: github-dark
-             - color_snake: crimson
-             - color_dots: #0dd3f8, #0bbddf, #0aa8c6, #0993ad, #077e94
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=crimson&color_dots=#0dd3f8,#0bbddf,#0aa8c6,#0993ad,#077e94
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
