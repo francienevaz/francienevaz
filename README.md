@@ -40,7 +40,7 @@
     <a href="https://www.instagram.com/franciene_vaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:contatofran.vfraga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <div align="center">
-    <img src="/gitImage.jpg" alt="octocat" height="330px">
+    <img src="/octocat-1710093469813.png" alt="octocat" height="330px">
     </div> 
   </div>
   
