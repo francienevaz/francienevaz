@@ -3,6 +3,11 @@
 </div>
 
 ##
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=de3163&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Fran+🖖🏻;Systems+Analysis+Graduate;Software+Developer;Passionate+about+Clean+Architecture+and+DDD;Welcome+to+my+GitHub!✨)](https://github.com/SEU_USERNAME)
+
+</div>
 
 <div align="center">
   <a href="https://www.artstation.com/artwork/8eelbG"><img width="85%" src="/pixel-jeff-matrix-s.gif" alt="Pixel Jeff - ArtStation">
@@ -13,10 +18,11 @@
 <div align="center">
   <a href="https://github.com/francienevaz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=francienevaz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/francienevaz/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francienevaz&layout=compact&langs_count=7&theme=radical" />
-</a>
+  </a>
+  
+  <a href="https://github.com/francienevaz/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francienevaz&layout=compact&langs_count=7&theme=radical" />
+  </a>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
