@@ -5,7 +5,7 @@
 ##
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=de3163&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Fran+🖖🏻;Systems+Analysis+Graduate;Software+Developer;The+best+way+to+predict+the+future+is+to+code+it.;Welcome+to+my+GitHub!✨)](https://github.com/francienevaz)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=de3163&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Fran+🖖🏻;Systems+Analysis+Graduate;Software+Developer;The+best+way+to+predict+the+future+is+to+code+it;Welcome+to+my+GitHub!✨)](https://github.com/francienevaz)
 
 </div>
 
